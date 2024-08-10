@@ -9,7 +9,7 @@ I am a passionate full-stack developer with hands-on experience in building dyna
 #### 💼 What I'm Up To
 - Expanding my portfolio, currently built using HTML, CSS, and JavaScript, to include projects with Angular and Spring Boot.
 - Exploring advanced features and best practices in Angular for building dynamic user interfaces.
-Continuously learning and experimenting with new technologies to stay updated in web development.
+- Continuously learning and experimenting with new technologies to stay updated in web development.
 
 #### 🤝 Let’s Collaborate
 I’m interested in collaborating on projects involving full-stack development, particularly those that leverage Angular, Spring Boot, and robust database systems. If you have a project in mind or would like to share knowledge, feel free to reach out!
