@@ -1,18 +1,17 @@
 ### 👋 Hi there, I'm Edwin Miano!
-I am a passionate full-stack developer with hands-on experience in building dynamic web applications. I’m currently focused on deepening my knowledge of both front-end and back-end technologies.
+I'm a passionate full-stack developer with a focus on building dynamic, responsive web applications. Currently, I’m enhancing my expertise in both front-end and back-end technologies.
 
 #### 🌱 Currently Learning
-- Front-end: Enhancing my skills in Angular and JavaScript.
-- Back-end: Diving deeper into Spring Boot.
-- Databases: Continuing to work with MySQL and PostgreSQL.
+- Front-End: HTML, CSS, JavaScript
+- Back-End: PHP, Spring Boot
+- Databases: MySQL
 
-#### 💼 What I'm Up To
-- Expanding my portfolio, currently built using HTML, CSS, and JavaScript, to include projects with Angular and Spring Boot.
-- Exploring advanced features and best practices in Angular for building dynamic user interfaces.
-- Continuously learning and experimenting with new technologies to stay updated in web development.
+#### 💼 Projects & Goals
+- Expanding my portfolio with new projects built using modern web technologies.
+- Exploring advanced techniques for creating interactive, user-friendly interfaces.
 
 #### 🤝 Let’s Collaborate
-I’m interested in collaborating on projects involving full-stack development, particularly those that leverage Angular, Spring Boot, and robust database systems. If you have a project in mind or would like to share knowledge, feel free to reach out!
+I’m interested in collaborating on projects that involve full-stack development and innovative solutions. Let’s connect and bring ideas to life!
 
 #### 📫 Connect with Me
 Email: mianoedwin007@gmail.com
